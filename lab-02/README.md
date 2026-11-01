@@ -235,3 +235,4 @@ Comparing SQLite CLI after POST, PUT, and DELETE proves the database file change
 3. **Database File Tracking vs `node_modules`:**
    - *Problem:* The lab specification requires producing and committing the SQLite `.db` file while strictly ignoring `node_modules` and any environment configurations.
    - *Solution:* Configured `.gitignore` in both root and `lab-02/` to ignore `node_modules/` and `.env`, while ensuring `book.db` is tracked in version control.
+
