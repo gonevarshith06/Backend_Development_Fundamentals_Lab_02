@@ -14,7 +14,7 @@
 | Lab | Title | Status | Link |
 |---|---|---|---|
 | Lab 01 | Node.js and Express server | Completed | [lab-01/](./lab-01/README.md) |
-| Lab 02 | Coming Soon | Planned | - |
+| Lab 02 | SQLite database and CRUD routes | Completed | [lab-02/](./lab-02/README.md) |
 | Lab 03 | Coming Soon | Planned | - |
 | Lab 04 | Coming Soon | Planned | - |
 | Lab 05 | Coming Soon | Planned | - |
