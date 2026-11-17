@@ -6,7 +6,7 @@
 - **Section:** S 26 Gen Ai 2C
 - **Course:** Backend Development Fundamentals (Year II Term II)
 - **Faculty:** Joel Prashanth D
-- **Reference Repository:** [shaik-creator/Backend_development_fundamentals_lab_02](https://github.com/shaik-creator/Backend_development_fundamentals_lab_02)
+- 
 
 ---
 
