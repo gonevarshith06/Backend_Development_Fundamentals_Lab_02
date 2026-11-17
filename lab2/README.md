@@ -10,8 +10,7 @@
 
 ---
 
-## Live Link
-- [**Live Deployment:** Not applicable (SQLite database runs as a local file-based storage engine `book.db`; serverless platforms ephemeral disk loses changes across invocations. Postman and SQLite CLI verification provided below).](https://backend-development-fundamentals-la-sooty.vercel.app/)
+ link : https://backend-development-fundamentals-la-sooty.vercel.app/
 - 
 
 ---
