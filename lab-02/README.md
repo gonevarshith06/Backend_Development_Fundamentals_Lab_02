@@ -6,14 +6,12 @@
 - **Section:** S 26 Gen Ai 2C
 - **Course:** Backend Development Fundamentals (Year II Term II)
 - **Faculty:** Joel Prashanth D
-- **Reference Repository:** [shaik-creator/Backend_development_fundamentals_lab_02](https://github.com/shaik-creator/Backend_development_fundamentals_lab_02)
+-  
 
 ---
 
 ## Live Link
-- **Live Deployment:** Not applicable (SQLite database runs as a local file-based storage engine `book.db`; serverless platforms ephemeral disk loses changes across invocations. Postman and SQLite CLI verification provided below).
-
----
+ https://backend-development-fundamentals-la-sooty.vercel.app/
 
 ## Objective
 Connect an Express server to a SQLite database and expose full CRUD (Create, Read, Update, Delete) operations over HTTP using asynchronous database queries, parameterized SQL statements (`?` placeholders) to prevent SQL injection, and nodemon for automated server reloading.
