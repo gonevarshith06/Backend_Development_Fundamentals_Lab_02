@@ -8,7 +8,7 @@
 - **Faculty:** Joel Prashanth D
 
 ---
-
+Deployment link:https://backend-development-fundamentals-la-sooty.vercel.app
 ## Course Labs Directory
 
 | Lab | Title | Status | Link |
